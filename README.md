@@ -4,6 +4,9 @@ FPGA based project ported on desktop computers using the SDL
 
 ## Principle
 
+![Screenshot](/images/screenshot.jpeg "Screenshot")
+
+
 This game is a sandbox game in 2D. Place blocks on the world using your mouse and see your own world come alive !
 You have 6 different block (sand, water, plant, wood, fire and rock) that have different way of living and evolving. For instance sand and water are attracted by gravity, plant and wood grow and can take fire,...).
 
